@@ -78,7 +78,6 @@
 
 1.26 - 6 (terabyte)
 
-Dưới đây là các giải pháp cho các câu hỏi của bạn:
 
 **Bài 3**
 
@@ -109,8 +108,6 @@ Vậy, bộ xử lý P2 có hiệu suất cao nhất.
 - P1: New Clock Rate = (Old CPI * (1 + 20%)) / (Old Execution Time * (1 - 30%)) = (1.5 * 1.2) / (10s * 0.7) = 2.57 GHz
 - P2: New Clock Rate = (Old CPI * (1 + 20%)) / (Old Execution Time * (1 - 30%)) = (1.0 * 1.2) / (10s * 0.7) = 1.71 GHz
 - P3: New Clock Rate = (Old CPI * (1 + 20%)) / (Old Execution Time * (1 - 30%)) = (2.5 * 1.2) / (10s * 0.7) = 4.29 GHz
-
-Dưới đây là các công thức và đáp án cho các câu hỏi của bạn:
 
 3.4 IPC (số lệnh được thực hiện trong một chu kì) cho mỗi bộ xử lý có thể được tính bằng cách chia số lượng lệnh cho số chu kì clock. Với P1, P2 và P3, ta có:
 
